@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ar7711",
+    "database": "nextjs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "ar7711",
+    "database": "nextjs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ar7711",
+    "database": "nextjs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
